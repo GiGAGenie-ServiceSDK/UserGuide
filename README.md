@@ -2,11 +2,10 @@
 Wiki에서 기가지니 서비스SDK 이용가이드 및 예제를 확인하실 수 있습니다. 아래 링크로 이동하세요.
 
 * [What's New?][What's New?]
-* [1. 개요][1. 개요]
-* [2. 일반사항][2. 일반사항]
-* [3. Namespace별 서비스 제공 목록][3. Namespace별 서비스 제공 목록]
-* [4. API설명][4. API설명]
-* [5. 참고사항][5. 참고사항]
+* [개요][1. 개요]
+* [일반사항][2. 일반사항]
+* [참고사항][5. 참고사항]
+* [API 전체 보기][3. Namespace별 서비스 제공 목록]
 
 [What's New?]: https://github.com/ServiceSDK/UserGuide/wiki/What's-New%3F
 [1. 개요]: https://github.com/ServiceSDK/UserGuide/wiki/1.-%EA%B0%9C%EC%9A%94
