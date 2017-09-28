@@ -22,7 +22,7 @@ Wiki에서 기가지니 서비스SDK 이용가이드 및 예제를 확인하실 
 
     * 예시) "기가지니, 개발자모드"
 
-3. 개발자모드가 실행되면 AppID 입력 창이 보입니다. 리모컨으로 입력하세요.
+3. 개발자모드가 실행되면 AppID 입력 창이 보입니다. 리모컨으로 입력하세요. (USB키보드도 사용할 수 있습니다.)
 
     ![developermode_main](https://user-images.githubusercontent.com/32326946/30946582-e7a0f550-a43f-11e7-9321-5cdd7d175b17.png)
 
@@ -37,6 +37,6 @@ Wiki에서 기가지니 서비스SDK 이용가이드 및 예제를 확인하실 
 
     ![developermode_auth](https://user-images.githubusercontent.com/32326946/30946622-148e1b88-a440-11e7-80ea-1da26f56bdb9.png)
 
-5. 인증 되었습니다! 페이지 주소를 입력하여 이용하세요.
+5. 인증 되었습니다! 개발 중인 페이지 주소를 입력하여 이용하세요.
 
     ![developermode_page](https://user-images.githubusercontent.com/32326946/30946655-3c9061f4-a440-11e7-9d6c-88a70a909f3e.png)
