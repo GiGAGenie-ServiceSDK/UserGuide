@@ -1,7 +1,6 @@
 **<h2>Welcome to the GiGA Genie ServiceSDK UserGuide!</h2>**
 Wiki에서 기가지니 서비스SDK 이용가이드 및 예제를 확인하실 수 있습니다. 아래 링크로 이동하세요.
 
-* [What's New?][What's New?]
 * [개요][1. 개요]
 * [일반사항][2. 일반사항]
 * [참고사항][5. 참고사항]
